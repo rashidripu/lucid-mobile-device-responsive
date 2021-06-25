@@ -1,0 +1,133 @@
+@media(min-width:0px) and (max-width:767px){
+    
+    .navbar-light .navbar-nav .nav-link {
+        margin-bottom: 10px;
+    }
+   
+    .features-content {
+        margin-bottom: 30px;
+    }
+    .beautiful-section img {
+        display: none;
+    }
+    .client-img {
+        width: 60px;
+        margin-right: 15px;
+    }
+    .client{
+        width: 100%;
+    }
+}
+
+@media(min-width:0px) and (max-width:576px){
+    .phone {
+        display: none;
+    }
+    .hg {
+        text-align: center;
+    }
+    .beautiful-content {
+        padding: 0 42px;
+    }
+    .customize-content {
+        padding: 0 35px;
+    }
+    .client {
+        width: 94%;
+    }
+    .client-img {
+        width: 50px;
+    }
+    .client-des {
+        /* margin-left: 15px; */
+    }
+    .btn-2{
+        display: flex;
+        justify-content: center;
+    }
+    .like{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 17px;
+    }
+    .price {
+        margin-bottom: 30px;
+    }
+    .price p {
+        padding: 55px 15px;
+        
+    }
+    .form-btn{
+        display: flex;
+        justify-content: center;
+    }
+    .contact-form {
+        width: 70%;
+        top: 75%;
+    }
+}
+@media(min-width:0px) and (max-width:425px){
+    header {
+        padding-bottom: 35px;
+    }
+    .header-content h1 {
+        font-size: 45px;
+    }
+    .footer-icon i {
+        margin: 0 18px;
+        font-size: 18px;
+    }
+    .footer-section p {
+        font-size: 16px;
+    }
+}
+@media(min-width:0px) and (max-width:376px){
+    .header-content h1 {
+        font-size: 34px;
+    }
+    .client-des p{
+        font-size: 14px;
+    }
+    .client-des h6{
+        font-size: 14px;
+    }
+    .footer-icon i {
+        margin: 0 14px;
+        font-size: 18px;
+    }
+    .footer-section p {
+        font-size: 14px;
+    }
+}
+@media(min-width:0px) and (max-width:320px){
+    .btn-feature {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .beautiful-content {
+        padding: 0 27px;
+    }
+    .contact-form form input[type='submit']{
+    height: 41px;
+    width: 130px;
+    padding: 0;
+    }
+    .btn-feature {
+        margin-top: 0;
+        margin-left: 10px;
+        padding: 10px 10px;
+    }
+    .btn-download{
+        padding: 10px 10px;
+    }
+    .contact-form {
+        width: 85%;
+    }
+    .footer-section p {
+        font-size: 12px;
+    }
+    .footer-icon i {
+        margin: 0 14px;
+        font-size: 14px;
+    }
+}
